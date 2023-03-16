@@ -25,7 +25,7 @@
     margin-bottom: 1rem;
 }
 
-.sobre-nosotros {
+.sobre-nosotros__texto--destacado {
     color: var(--fuente-ceniza-oscuro);
     font-weight: 700;
 }
